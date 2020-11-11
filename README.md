@@ -1,5 +1,6 @@
-# us-medical-insurance-costs
-## Codecademy Data Scientist Path 4.1.1 U.S. Medical Insurance Costs Portfolio Project
+# U.S. Medical Insurance Costs
+## Codecademy Data Scientist Path
+## 4.1.1 U.S. Medical Insurance Costs Portfolio Project
 ### Project Overview
 For this project, you will be investigating a [medical insurance costs dataset](https://www.kaggle.com/mirichoi0218/insurance) in a .csv file using the Python skills that you have developed. This dataset and its parameters will seem familiar if you have done any of the previous Python projects in the data science path.
 
